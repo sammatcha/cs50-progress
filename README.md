@@ -1,7 +1,7 @@
 # CS50 Progress Log
 
 ## CheckList
-- [ ] Week 0 - Scratch
+- [X] Week 0 - Scratch
 - [ ] Week 1 - C
 - [ ] Week 2 - Arrays
 - [ ] Week 3 - Algorithms
